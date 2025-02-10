@@ -1,0 +1,3 @@
+# Tascario Public version
+
+AGPLです。
